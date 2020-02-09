@@ -1,9 +1,9 @@
 # Dace Party Overlay!
 
 # Requriements (to put your picture in replacement of my dogs):
-Adobe After Effects
-Script editor (I use Atom editor)
-+/- Photoshop
+1. Adobe After Effects
+2. Script editor (I use Atom editor)
+3. +/- Photoshop
 
 # Directions:
 1. Download the folder
