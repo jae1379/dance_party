@@ -13,12 +13,16 @@ function partyvid(message) {
 }
 
 ComfyJS.onCommand = ( user, command, message, flags, extra ) => {
+    if( command === "partay" &&
+        ( !rewardId || flags.broadcaster || flags.mod ) ) {
+        partyvid( message );
+    }
     if( flags.customReward && extra.customRewardId === rewardId ) {
         partyvid( message );
     }
 };
 ComfyJS.onChat = ( user, message, flags, self, extra ) => {
-    if( flags.customReward && extra.customRewardId === "46e3bf7a-567a-4d1a-8d3d-bf088b14703d" ) {
+    if( flags.customReward && extra.customRewardId === "70a77aa8-7e97-402f-b32b-a735a5ab031e" ) {
         partyvid( message );
     }
 };
