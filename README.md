@@ -1,4 +1,5 @@
-# Dace Party Overlay!
+# Twitch Dace Party Overlay!
+Meme dance with your choice of icons! Currently setup so that my dogs are dancing, but yu can replace the dogs picture with your picture as long as it matches similiar to the dogs png. 
 
 # Requriements (to put your picture in replacement of my dogs):
 1. Adobe After Effects
